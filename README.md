@@ -1,5 +1,7 @@
 # 100 Days of Code Challenge
 
+![logo](logo.png)
+
 ## Rules
 
 * Code a minimum of one hour each day for the next 100 days.
